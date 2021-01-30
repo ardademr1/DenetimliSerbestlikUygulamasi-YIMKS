@@ -38,4 +38,4 @@ gerektiği halde mağdura yaklaşması durumunda bu bilgi hızlı bir şekilde s
 aranarak ya da uygulama bildirimi gönderilerek uyarılır. İhlal durumunda elektronik izleme merkezine gelen sinyal sonrasında
 ilgili birimlerle irtibata geçilerek eş zamanlı müdahale yapılır. Böylelikle mağdurun korunması sağlanır.
 ``` 
-
+![image](https://user-images.githubusercontent.com/52732986/106360488-b23bbb00-6329-11eb-9fad-079ef4430d7a.png)
