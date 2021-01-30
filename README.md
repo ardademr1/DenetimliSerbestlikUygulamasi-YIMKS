@@ -43,3 +43,4 @@ ilgili birimlerle irtibata geçilerek eş zamanlı müdahale yapılır. Böyleli
 ## 🚀 Yükümlü Takip ve Mağdur Takip Mobil Uygulamalarının Ekran Resimleri
 ![image](https://user-images.githubusercontent.com/52732986/106360488-b23bbb00-6329-11eb-9fad-079ef4430d7a.png)
 ![image](https://user-images.githubusercontent.com/52732986/106360532-e911d100-6329-11eb-93b7-a189067c7b08.png)
+![image](https://user-images.githubusercontent.com/52732986/106360618-8a008c00-632a-11eb-8205-a73cccb7219c.png)
