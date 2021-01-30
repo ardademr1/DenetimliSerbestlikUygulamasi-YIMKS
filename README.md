@@ -7,3 +7,8 @@
 Denetimli serbestlik kapsamındaki yükümlüleri ve mağduru izlemeye yönelik oluşturulmuş; iki mobil uygulama Yükümlü Takip, Mağdur Takip ve bir web uygulaması içerir. Bu kapsamda Elektronik kelepçe ve mağdur koruma ünitesinin teknik alt yapısı ve gerekli tüm bileşenler incelenerek, mobil ve web üzerinde çalışan  bir denetimli serbestlik uygulaması gerçekleştirilmiştir.
 
 <h2>Projede Kullanılan Teknolojiler</h2>
+Android Studio platformu
+Google Firebase platformu
+HTML, CSS ve JavaScript teknolojileri
+Mapbox web hizmetleri
+Machine Learning Kit
