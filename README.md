@@ -1,7 +1,7 @@
 # DenetimliSerbestlikUygulamasi
 ## 🚀 Yimks (Yükümlüleri İzleme ve Mağduru Koruma Sistemi)
 ```sh
-Denetimli Serbestlik Kapsamındaki Yükümlüleri İzleme ve Mağduru Koruma Sistemi</b>
+Denetimli Serbestlik Kapsamındaki Yükümlüleri İzleme ve Mağduru Koruma Sistemi
 ```
 ```sh
 Denetimli Serbestlik Nedir?
