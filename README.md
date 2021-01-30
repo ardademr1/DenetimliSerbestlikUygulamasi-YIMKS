@@ -23,4 +23,11 @@ ve gerekli tüm bileşenler incelenerek, mobil ve web üzerinde çalışan  bir 
 - Mapbox web hizmetleri
 - Machine Learning Kit
 ```
+**Projenin Yöntemi**
+```sh
+YİMKS; Adalet Bakanlığı’nın elektronik izleme sisteminin alımına ilişkin ihale şartnamesi dikkate alınarak gerçekleştirilmiştir.
+Sistem 2 adet mobil uygulama ve 1 adet web uygulamasından oluşmaktadır. 
+-Mobil Uygulamaları: Yükümlü ve mağdur izleme mobil uygulamaları.
+-Web Uygulaması: Elektronik izleme merkezinde yükümlü ve mağdurdan gelen verileri analiz ve takip etmek için yapılmıştır.
+```
 
