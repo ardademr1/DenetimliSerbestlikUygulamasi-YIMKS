@@ -5,15 +5,17 @@ Denetimli Serbestlik Kapsamındaki Yükümlüleri İzleme ve Mağduru Koruma Sis
 ```
 **Denetimli Serbestlik Nedir?**
 ```sh
-Denetimli serbestlik, yükümlülerin suç işlemelerinin önlenmesi, ceza infaz kurumundan salıverilen yükümlülerin takip edilmesi,
-mağdurların uğradıkları zararın giderilmesi, bu yolla da mağdurun ve dolayısıyla toplumun korunmasıdır.
+Denetimli serbestlik, yükümlülerin suç işlemelerinin önlenmesi, ceza infaz kurumundan salıverilen
+yükümlülerin takip edilmesi,mağdurların uğradıkları zararın giderilmesi, bu yolla da mağdurun ve 
+dolayısıyla toplumun korunmasıdır.
 ```
 **Yükümlüleri İzleme ve Mağduru Koruma Sistemi Nedir?**
 ```sh
 Yükümlüleri İzleme ve Mağduru Koruma Sistemi Nedir?
-Denetimli serbestlik kapsamındaki yükümlüleri ve mağduru izlemeye yönelik oluşturulmuş; iki mobil uygulama Yükümlü Takip,
-Mağdur Takip ve bir web uygulaması içerir. Bu kapsamda Elektronik kelepçe ve mağdur koruma ünitesinin teknik alt yapısı
-ve gerekli tüm bileşenler incelenerek, mobil ve web üzerinde çalışan  bir denetimli serbestlik uygulaması gerçekleştirilmiştir.
+Denetimli serbestlik kapsamındaki yükümlüleri ve mağduru izlemeye yönelik oluşturulmuş;
+iki mobil uygulama Yükümlü Takip,Mağdur Takip ve bir web uygulaması içerir. Bu kapsamda 
+Elektronik kelepçe ve mağdur koruma ünitesinin teknik alt yapısıve gerekli tüm bileşenler
+incelenerek, mobil ve web üzerinde çalışan  bir denetimli serbestlik uygulaması gerçekleştirilmiştir.
 ```
 **Projede Kullanılan Teknolojiler;**
 ```sh
@@ -38,4 +40,6 @@ gerektiği halde mağdura yaklaşması durumunda bu bilgi hızlı bir şekilde s
 aranarak ya da uygulama bildirimi gönderilerek uyarılır. İhlal durumunda elektronik izleme merkezine gelen sinyal sonrasında
 ilgili birimlerle irtibata geçilerek eş zamanlı müdahale yapılır. Böylelikle mağdurun korunması sağlanır.
 ``` 
+## 🚀 Yükümlü Takip ve Mağdur Takip Mobil Uygulamalarının Ekran Resimleri
 ![image](https://user-images.githubusercontent.com/52732986/106360488-b23bbb00-6329-11eb-9fad-079ef4430d7a.png)
+![image](https://user-images.githubusercontent.com/52732986/106360532-e911d100-6329-11eb-93b7-a189067c7b08.png)
