@@ -3,11 +3,12 @@
 ```sh
 Denetimli Serbestlik Kapsamındaki Yükümlüleri İzleme ve Mağduru Koruma Sistemi
 ```
+**Denetimli Serbestlik Nedir?**
 ```sh
-Denetimli Serbestlik Nedir?
 Denetimli serbestlik, yükümlülerin suç işlemelerinin önlenmesi, ceza infaz kurumundan salıverilen yükümlülerin takip edilmesi,
 mağdurların uğradıkları zararın giderilmesi, bu yolla da mağdurun ve dolayısıyla toplumun korunmasıdır.
 ```
+**Yükümlüleri İzleme ve Mağduru Koruma Sistemi Nedir?**
 ```sh
 Yükümlüleri İzleme ve Mağduru Koruma Sistemi Nedir?
 Denetimli serbestlik kapsamındaki yükümlüleri ve mağduru izlemeye yönelik oluşturulmuş; iki mobil uygulama Yükümlü Takip,
